@@ -1,2 +1,2 @@
 # RA-Overlay-Source
-Source files for the RA vverlays
+Source files for the RA overlays
